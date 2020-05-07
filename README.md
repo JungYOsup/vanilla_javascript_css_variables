@@ -1,2 +1,2 @@
 # vanilla_javascript_css_variables
-css variables 
+Update CSS Variables with JS
